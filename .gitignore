@@ -1,0 +1,21 @@
+#################
+## IDEs
+#################
+
+.idea
+.project
+.settings
+.vscode
+
+############
+## Windows
+############
+
+Thumbs.db
+Desktop.ini
+
+############
+## Mac
+############
+
+.DS_Store
